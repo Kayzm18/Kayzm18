@@ -34,8 +34,8 @@ I’m passionate about learning, building, and constantly improving my skills th
 ---
 
 ### 🔥 Streaks & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmutanuka15&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmutanuka15&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kayzm18&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayzm18&theme=react-dark)
 
 ---
 
@@ -49,11 +49,11 @@ I’m passionate about learning, building, and constantly improving my skills th
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawana-mutanuka-8947b2338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/kmutanuka15)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Kayam18)
 
 ---
 
 ⭐️ *“Learning never exhausts the mind.” – Leonardo da Vinci*
 
-![snake gif](https://github.com/kmutanuka15/kmutanuka15/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kayzm18/Kayzm18/blob/output/github-contribution-grid-snake.svg)
 
