@@ -54,6 +54,3 @@ I’m passionate about learning, building, and constantly improving my skills th
 ---
 
 ⭐️ *“Learning never exhausts the mind.” – Leonardo da Vinci*
-
-![snake gif](https://github.com/Kayzm18/Kayzm18/blob/output/github-contribution-grid-snake.svg)
-
