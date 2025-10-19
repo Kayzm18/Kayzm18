@@ -30,8 +30,9 @@ I’m passionate about learning, building, and constantly improving my skills th
 ---
 
 ### 📊 GitHub Stats
-![Kawana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayzm18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzm18&layout=compact&theme=radical)
+![Kawana's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmutanuka15&show_icons=true&theme=radical&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzm18&layout=compact&theme=radical&v=2)
+
 
 ---
 
