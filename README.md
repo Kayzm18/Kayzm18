@@ -24,7 +24,8 @@ I’m passionate about learning, building, and constantly improving my skills th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Python](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 
 ---
 
@@ -35,7 +36,7 @@ I’m passionate about learning, building, and constantly improving my skills th
 ---
 
 ### 🔥 Streaks & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kayzm18&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmutanuka15&theme=radical&date=20251018)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayzm18&theme=react-dark)
 
 ---
