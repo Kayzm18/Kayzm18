@@ -53,6 +53,6 @@ I’m passionate about learning, building, and constantly improving my skills th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawana-mutanuka-8947b2338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Kayam18)
 
----
+--
 
 ⭐️ *“Learning never exhausts the mind.” – Leonardo da Vinci*
