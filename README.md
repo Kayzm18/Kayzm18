@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kawana Mutanuka!
 
-💻 **Fullstack Developer | C++ & React.js Enthusiast | AI & Cybersecurity Explorer**
+💻 **Fullstack Developer | Tech Enthusiast | AI & Cybersecurity Explorer**
 
 I’m passionate about learning, building, and constantly improving my skills through hands-on projects and real-world challenges. Currently experimenting with React and C++ to bring creative ideas to life!
 
