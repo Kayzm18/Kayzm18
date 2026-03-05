@@ -8,7 +8,6 @@ I’m passionate about learning, building, and constantly improving my skills th
 
 ### 🚀 What I’ve Been Working On
 - 🎬 **Movie Hub** – A React web app showing the latest movies with a clean UI and live data fetching  
-- ✈️ **Travel Agency Website** – A responsive React site for discovering destinations and booking experiences  
 - 💡 Experimenting with **wxWidgets C++ GUI** applications  
 - 🤖 Exploring how **AI and cybersecurity** can shape the future of software
 
