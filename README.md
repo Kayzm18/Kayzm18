@@ -34,8 +34,7 @@ I’m passionate about learning, building, and constantly improving my skills th
 
 ---
 
-### 🔥 Streaks & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kayzm18&theme=tokyonight&hide_border=true&fire=DD2727)
+### 🔥 Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayzm18&theme=react-dark)
 
 ---
