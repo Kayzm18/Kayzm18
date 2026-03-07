@@ -27,13 +27,6 @@ I’m passionate about learning, building, and constantly improving my skills th
 
 ---
 
-### 📊 GitHub Stats
-![Kawana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayzm18&show_icons=true&theme=radical&v=2)
-
-
-
----
-
 ### 🔥 Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayzm18&theme=react-dark)
 
