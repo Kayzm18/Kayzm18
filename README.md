@@ -37,11 +37,6 @@ A fully functional Snake game with graphics rendering, game loops, and keyboard 
 - **Tech Stack**: Java, Swing Graphics
 - **Link**: [SnakeGame-Java](https://github.com/Kayzm18/SnakeGame-Java-)
 
-#### Tic-Tac-Toe - Java
-Interactive Tic-Tac-Toe implementation with game logic and player controls.
-- **Tech Stack**: Java
-- **Link**: [Tic-Tac-Toe-in-Java](https://github.com/Kayzm18/Tic-Tac-Toe-in-Java)
-
 ### 🛡️ **CyberSecurity-Tools** 
 A comprehensive cybersecurity practice lab featuring scripts, tools, and exercises for ethical hacking, network defense, and digital forensics in controlled environments.
 - **Tech Stack**: Python
@@ -49,24 +44,10 @@ A comprehensive cybersecurity practice lab featuring scripts, tools, and exercis
 - **Link**: [CyberSecurity-Tools](https://github.com/Kayzm18/CyberSecurity-Tools)
 
 ### 💻 **Data Structures**
-Implementation of fundamental data structures in C++ with practical examples and use cases.
-- **Tech Stack**: C++
-- **Link**: [Data-Structures](https://github.com/Kayzm18/Data-Structures)
-
 ### ⏰ **Scheduling Algorithms**
 Various CPU scheduling algorithms implemented in C++ (FCFS, SJF, Priority, Round Robin, etc.).
 - **Tech Stack**: C++
 - **Link**: [Scheduling-algorithms](https://github.com/Kayzm18/Schdeuling-algorithms)
-
-### 📚 **Java Practice**
-Personal learning repository for exploring Java fundamentals and advanced concepts.
-- **Tech Stack**: Java
-- **Link**: [Java-practise](https://github.com/Kayzm18/Java-practise)
-
-### 🌐 **JavaScript Simple Projects**
-A collection of beginner-friendly JavaScript projects exploring DOM manipulation, event handling, and vanilla JS concepts.
-- **Tech Stack**: HTML5, CSS3, JavaScript
-- **Link**: [JS-Simple-Projects](https://github.com/Kayzm18/JS-Simple-Projects)
 
 ### 🎨 **Web Projects**
 - **ICTAZ-CRYPT**: A web-based cryptography learning platform
